@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/(.*)",
-      "destination": "/api/write-notion"
+      "source": "/api/write-notion",
+      "destination": "/api/write-notion.js"
     }
   ]
 }
